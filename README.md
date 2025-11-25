@@ -68,7 +68,9 @@
 - **撤回功能**：重命名后可以一键撤回到原始文件名
 - **批量处理**：一次处理整个文件夹的所有文件
 
-<img src="https://yehongliang.com/github/rename/11.png" alt="预览" width="500">
+<p align="center">
+  <img src="https://yehongliang.com/github/rename/11.png" alt="预览" width="500">
+</p>
 ---
 
 
@@ -118,7 +120,9 @@ python main.py
 - 🎯 识别最常见的项目名并自动填充
 - 💡 生成推荐的忽略词
 
-<img src="https://yehongliang.com/github/rename/1.png" alt="选择文件夹" width="600">
+<p align="center">
+  <img src="https://yehongliang.com/github/rename/1.png" alt="选择文件夹" width="600">
+</p>
 
 ---
 
@@ -131,7 +135,9 @@ python main.py
 - 点击不想要的词（如"样本"、"副本"、"练习"）
 - 它们会自动添加到忽略词输入框
 
-<img src="https://yehongliang.com/github/rename/2.png" alt="推荐词" width="500">
+<p align="center">
+  <img src="https://yehongliang.com/github/rename/2.png" alt="推荐词" width="500">
+</p>
 
 #### 方法 2：手动输入
 在 "忽略词" 输入框中输入需要忽略的词：
@@ -145,7 +151,9 @@ python main.py
 - 发现不想要的词（如"样本"被识别为姓名）
 - **双击那个词**，它会自动添加到忽略词
 
-<img src="https://yehongliang.com/github/rename/3.png" alt="双击添加" width="600">
+<p align="center">
+  <img src="https://yehongliang.com/github/rename/3.png" alt="双击添加" width="600">
+</p>
 
 ---
 
@@ -177,7 +185,9 @@ python main.py
 2. 点击 "刷新预览" 重新生成
 3. 重复直到满意
 
-<img src="https://yehongliang.com/github/rename/4.png" alt="预览" width="600">
+<p align="center">
+  <img src="https://yehongliang.com/github/rename/4.png" alt="预览" width="600">
+</p>
 
 ---
 
