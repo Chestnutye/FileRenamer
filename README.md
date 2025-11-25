@@ -121,7 +121,7 @@ python main.py
 - 💡 生成推荐的忽略词
 
 <p align="center">
-  <img src="https://yehongliang.com/github/rename/1.png" alt="选择文件夹" width="600">
+  <img src="https://yehongliang.com/github/rename/10.png" alt="选择文件夹" width="600">
 </p>
 
 ---
@@ -136,7 +136,7 @@ python main.py
 - 它们会自动添加到忽略词输入框
 
 <p align="center">
-  <img src="https://yehongliang.com/github/rename/2.png" alt="推荐词" width="500">
+  <img src="https://yehongliang.com/github/rename/20.png" alt="推荐词" width="500">
 </p>
 
 #### 方法 2：手动输入
@@ -152,7 +152,7 @@ python main.py
 - **双击那个词**，它会自动添加到忽略词
 
 <p align="center">
-  <img src="https://yehongliang.com/github/rename/3.png" alt="双击添加" width="600">
+  <img src="https://yehongliang.com/github/rename/30.png" alt="双击添加" width="600">
 </p>
 
 ---
@@ -186,7 +186,7 @@ python main.py
 3. 重复直到满意
 
 <p align="center">
-  <img src="https://yehongliang.com/github/rename/4.png" alt="预览" width="600">
+  <img src="https://yehongliang.com/github/rename/40.png" alt="预览" width="600">
 </p>
 
 ---
