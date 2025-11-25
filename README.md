@@ -152,7 +152,7 @@ python main.py
 - **双击那个词**，它会自动添加到忽略词
 
 <p align="center">
-  <img src="https://yehongliang.com/github/rename/30.png" alt="双击添加" width="600">
+  <img src="https://yehongliang.com/github/rename/30.png" alt="添加" width="600">
 </p>
 
 ---
@@ -337,6 +337,6 @@ MIT License
 
 <div align="center">
 
-**感谢任劳任怨的Ai帮我优化逻辑** 
+**感谢任劳任怨的Ai帮我优化逻辑，如有识别问题尽情提Issues** 
 
 </div>
