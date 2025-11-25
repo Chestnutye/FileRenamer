@@ -88,8 +88,9 @@
 
 1. **下载安装包**
    - 从 [Releases](https://github.com/Chestnutye/FileRenamer/releases) 下载最新的 `.dmg` 文件
-   - 支持系统：macOS 10.13 (High Sierra) 及以上
-   - 支持架构：Apple Silicon (M1/M2/M3)
+   - 该应用在 Apple Silicon Mac 上使用 PyInstaller 构建
+   - 支持系统：macOS 12.3 (Monterey) 及以上
+   - 支持架构：Apple Silicon (M1/M2/M3/M4/M5)
 
 2. **安装应用**
    - 双击下载的 `.dmg` 文件
