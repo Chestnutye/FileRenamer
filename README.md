@@ -68,6 +68,7 @@
 - **撤回功能**：重命名后可以一键撤回到原始文件名
 - **批量处理**：一次处理整个文件夹的所有文件
 
+<img src="https://yehongliang.com/github/rename/11.png" alt="预览" width="500">
 ---
 
 
