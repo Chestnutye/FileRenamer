@@ -82,7 +82,30 @@
 
 ## 🚀 快速开始
 
-### 方式一：直接运行（推荐）
+### 方式一：使用安装包（推荐）
+
+#### macOS 用户
+
+1. **下载安装包**
+   - 从 [Releases](https://github.com/Chestnutye/FileRenamer/releases) 下载最新的 `.dmg` 文件
+   - 支持系统：macOS 10.13 (High Sierra) 及以上
+   - 支持架构：Apple Silicon (M1/M2/M3)
+
+2. **安装应用**
+   - 双击下载的 `.dmg` 文件
+   - 将 `FileRenamer.app` 拖拽到 `Applications` 文件夹
+   - 首次打开时，如果系统提示"无法验证开发者"：
+     - 打开"系统偏好设置" > "安全性与隐私"
+     - 点击"仍要打开"按钮
+
+3. **运行程序**
+   - 从 Applications 文件夹或 Launchpad 启动 FileRenamer
+
+#### Windows 用户
+
+- [ ] Windows 版本打包中...
+
+### 方式二：从源码运行
 
 1. **克隆项目**
 ```bash
@@ -99,15 +122,6 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
-### 方式二：使用可执行文件
-
-~~下载 [Releases](https://github.com/) 中的可执行文件，双击运行即可。~~
-- [ ] Win 版本打包
-- [ ] Mac 版本打包
-
----
-
 ## 📚 使用教程
 
 ### 第一步：选择文件夹
@@ -281,24 +295,6 @@ python main.py
 
 ---
 
-### 打包为可执行文件
-
-使用 PyInstaller 打包为独立应用：
-
-```bash
-# 安装 PyInstaller
-pip install pyinstaller
-
-# 打包（macOS/Linux）
-pyinstaller --name="FileRenamer" --windowed --onefile main.py
-
-# 打包（Windows）
-pyinstaller --name="FileRenamer" --windowed --onefile --icon=icon.ico main.py
-```
-
-打包后的可执行文件位于 `dist/` 目录。
-
----
 
 ## 🏗️ 项目结构
 

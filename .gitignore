@@ -30,6 +30,12 @@ env/
 *.manifest
 *.spec
 
+# Packaging
+build.sh
+create_dmg.sh
+resources/
+BUILD.md
+
 # IDE
 .vscode/
 .idea/
